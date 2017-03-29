@@ -1,0 +1,30 @@
+PODS:
+  - Mockingjay (2.0.0):
+    - Mockingjay/Core (= 2.0.0)
+    - Mockingjay/XCTest (= 2.0.0)
+  - Mockingjay/Core (2.0.0):
+    - URITemplate (~> 2.0)
+  - Mockingjay/XCTest (2.0.0):
+    - Mockingjay/Core
+  - URITemplate (2.0.0)
+
+DEPENDENCIES:
+  - Mockingjay (from `https://github.com/kylef/Mockingjay`, commit `a2ac2bf`)
+
+EXTERNAL SOURCES:
+  Mockingjay:
+    :commit: a2ac2bf
+    :git: https://github.com/kylef/Mockingjay
+
+CHECKOUT OPTIONS:
+  Mockingjay:
+    :commit: a2ac2bf
+    :git: https://github.com/kylef/Mockingjay
+
+SPEC CHECKSUMS:
+  Mockingjay: 95a5fbe594f963f7536d3975739df39f1366f4d1
+  URITemplate: a5acb3f76c6a2338116fde88b658d83f91bbac45
+
+PODFILE CHECKSUM: 2816f85140b5553dac6868e53ccc68166ca24688
+
+COCOAPODS: 1.2.0
